@@ -30,13 +30,11 @@ But even so, little by little I'm going back and styling the projects. So if you
 
 <hr>
 
-<h3 align="center">
-  
-Projects that you will find here
+<h3 align="center"> Projects that you will find here: </h3>
 
-</h3>
+<hr>
 
-- [Project - Lessons Learned](https://fumagallilaura.github.io/Trybe-Projects/Lessons-Learned/) :fist_oncoming:
+- ## [Project - Lessons Learned](https://fumagallilaura.github.io/Trybe-Projects/Lessons-Learned/) :fist_oncoming:
 
 <img src="https://github.com/fumagallilaura/Trybe-Projects/blob/main/Images%20and%20Gifs%20to%20README/lessons-learned.gif?raw=true" align="left" alt="GIF" height="220px" width="350px">
 
@@ -50,7 +48,10 @@ It's not very professional, as you can see, but I tried to apply the knowledge a
 
 Leave your comment [here](https://github.com/fumagallilaura/Trybe-Projects/commit/615e0a12257e1e2acabafc968ababd3662f2005c)! Thanks :fist_oncoming:
 
-- [Project - Pixel Art](Exercises-Trybe-Projects/Trybe-Calendar/calend.html) :art:
+
+<hr>
+
+- ## [Project - Pixel Art](Exercises-Trybe-Projects/Trybe-Calendar/calend.html) :art:
 
 <img src="https://github.com/fumagallilaura/Trybe-Projects/blob/main/Images%20and%20Gifs%20to%20README/art-with-pixels.gif?raw=true" align="right" alt="GIF" height="220px" width="350px">
 
@@ -64,8 +65,9 @@ This one is not so professional either, as you can see, but I tried to mix the p
 
 Leave your comment [here](https://github.com/fumagallilaura/Trybe-Projects/commit/ea28f074f4e1722b2b35adca47f6442996e33ce6)! Thanks :art:
 
+<hr>
 
-- [Project - To Do List](https://fumagallilaura.github.io/Trybe-Projects/To-Do-List/) :scroll:
+- ## [Project - To Do List](https://fumagallilaura.github.io/Trybe-Projects/To-Do-List/) :scroll:
 
 <img src="https://github.com/fumagallilaura/Trybe-Projects/blob/main/Images%20and%20Gifs%20to%20README/todo-list-example.gif?raw=true" align="left" alt="GIF" height="220px" width="350px">
 
@@ -79,7 +81,9 @@ You can add tasks to it, cross off the completed ones, paint the important ones,
 
 Leave your comment [here](https://github.com/fumagallilaura/Trybe-Projects/commit/ae50d10c0140e4b69a0a2074324da090344426c1)! Thanks :scroll:
 
-- [Project - Meme Generator](https://fumagallilaura.github.io/Trybe-Projects/Meme-Generator/) :trollface:
+<hr>
+
+- ## [Project - Meme Generator](https://fumagallilaura.github.io/Trybe-Projects/Meme-Generator/) :trollface:
 
 <img src="https://github.com/fumagallilaura/Trybe-Projects/blob/main/Images%20and%20Gifs%20to%20README/meme-generator.gif?raw=true" align="right" alt="GIF" height="220px" width="350px">
 
@@ -93,7 +97,9 @@ You can select pre-existing memes or upload images from your computer to create 
 
 Leave your comment [here](https://github.com/fumagallilaura/Trybe-Projects/commit/b37d9213ab2642a19f42d6adce18ea6f149df792)! Thanks :trollface:
 
-- [Project - Color Guess](https://fumagallilaura.github.io/Trybe-Projects/Color-Guess/) :dart:
+<hr>
+
+- ## [Project - Color Guess](https://fumagallilaura.github.io/Trybe-Projects/Color-Guess/) :dart:
 
 <img src="https://github.com/fumagallilaura/Trybe-Projects/blob/main/Images%20and%20Gifs%20to%20README/guess-the-color.gif?raw=true" align="left" alt="GIF" height="220px" width="350px">
 
@@ -107,7 +113,9 @@ More JavaScript training, thus fixing the learned knowledge very well
 
 Leave your comment [here](https://github.com/fumagallilaura/Trybe-Projects/commit/1c312a28210b15bb033f62ed62ca592ec98d53e5)! Thanks :dart:
 
-- [Project - Mystery Letter](https://fumagallilaura.github.io/Trybe-Projects/Mistery-Letter/) :love_letter:
+<hr>
+
+- ## [Project - Mystery Letter](https://fumagallilaura.github.io/Trybe-Projects/Mistery-Letter/) :love_letter:
 
 <img src="https://github.com/fumagallilaura/Trybe-Projects/blob/main/Images%20and%20Gifs%20to%20README/mistery-letter-example.gif?raw=true" align="right" alt="GIF" height="220px" width="350px">
 
@@ -121,7 +129,9 @@ This project helped me train how to merge JavaScript with CSS!
 
 Leave your comment [here](https://github.com/fumagallilaura/Trybe-Projects/commit/85de4c53bcad2ca993f40f98747c7dd495609d41)! Thanks :love_letter:
 
-- [Project - Trybewarts](https://fumagallilaura.github.io/Trybe-Projects/Trybewarts/) :fist_right: :fist_left:
+<hr>
+
+- ## [Project - Trybewarts](https://fumagallilaura.github.io/Trybe-Projects/Trybewarts/) :fist_right: :fist_left:
 
 <img src="https://github.com/fumagallilaura/Trybe-Projects/blob/main/Images%20and%20Gifs%20to%20README/pagina-principal.png?raw=true" align="left" alt="GIF" height="220px" width="350px">
 
@@ -135,7 +145,9 @@ Training the ability to manipulate forms and also how to work in a group (softsk
 
 Leave your comment [here](https://github.com/fumagallilaura/Trybe-Projects/commit/5ee9604f2e10b1ff1ddec0c2bbe5d4ec4e18162f)! Thanks :fist_right: :fist_left:
 
-- [Project - JavaScript Unit Tests](https://github.com/fumagallilaura/Trybe-Projects/tree/main/Unit-Tests) :radioactive:
+<hr>
+
+- ## [Project - JavaScript Unit Tests](https://github.com/fumagallilaura/Trybe-Projects/tree/main/Unit-Tests) :radioactive:
 
 <img src="https://github.com/fumagallilaura/Trybe-Projects/blob/main/Images%20and%20Gifs%20to%20README/unit-tests.jpg?raw=true" align="right" alt="GIF" height="220px" width="350px">
 
@@ -150,7 +162,9 @@ It was quite challenging, but a necessary step in this long journey of programmi
 
 Leave your comment [here](https://github.com/fumagallilaura/Trybe-Projects/commit/0efeb28244134be0fe9e6c3f9283098c2e893a98)! Thanks :radioactive:
 
-- [Project - Zoo functions](https://github.com/fumagallilaura/Trybe-Projects/tree/main/Zoo-Functions) :elephant:
+<hr>
+
+- ## [Project - Zoo functions](https://github.com/fumagallilaura/Trybe-Projects/tree/main/Zoo-Functions) :elephant:
 
 <img src="https://github.com/fumagallilaura/Trybe-Projects/blob/main/Images%20and%20Gifs%20to%20README/functions.jpg?raw=true" align="left" alt="GIF" height="220px" width="350px">
 
@@ -164,7 +178,9 @@ With a lot about functions learned, for me this was the most difficult project o
 
 Leave your comment [here](https://github.com/fumagallilaura/Trybe-Projects/commit/bbc282007a3378236d33c26e34f4768563f88d76)! Thanks :elephant:
 
-- [Project - Shopping Cart](https://fumagallilaura.github.io/Trybe-Projects/Shopping-Cart/) :shopping_cart:
+<hr>
+
+- ## [Project - Shopping Cart](https://fumagallilaura.github.io/Trybe-Projects/Shopping-Cart/) :shopping_cart:
 
 <img src="https://github.com/fumagallilaura/Trybe-Projects/blob/main/Images%20and%20Gifs%20to%20README/shopping-cart.gif?raw=true" align="right" alt="GIF" height="220px" width="350px">
 
@@ -177,7 +193,9 @@ It was really amazing to think of so many features together!
 #### Suggestions?
 
 Leave your comment [here](https://github.com/fumagallilaura/Trybe-Projects/commit/74c66125f88a37a5bd1d6c8b73dbef2c93230ab4)! Thanks :shopping_cart:
-  
+
+<hr>
+
   <h3 align="center"> Thank you for your visit </h3>
   
   <h4 align="center"> Check back often! </h2>

@@ -51,7 +51,7 @@ Leave your comment [here](https://github.com/fumagallilaura/Trybe-Projects/commi
 
 <hr>
 
-- ## [Project - Pixel Art](Exercises-Trybe-Projects/Trybe-Calendar/calend.html) :art:
+- ## [Project - Pixel Art](https://fumagallilaura.github.io/Trybe-Projects/Pixel-Art/) :art:
 
 <img src="https://github.com/fumagallilaura/Trybe-Projects/blob/main/Images%20and%20Gifs%20to%20README/art-with-pixels.gif?raw=true" align="right" alt="GIF" height="220px" width="350px">
 
